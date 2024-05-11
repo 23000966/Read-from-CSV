@@ -27,7 +27,7 @@ Register Number: 212223240033
 ```
 ```
 import pandas as pd
-df = pd.read_csv('spam.csv')
+df = pd.read_csv('salary.csv')
 print(df.head(10))
 print(df.tail())
 print("Number of rows:",len(df.axes[0]))
