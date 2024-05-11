@@ -34,6 +34,6 @@ print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
 ```
 ## OUTPUT:
-![output](.png)
+![output](code.png)
 ## RESULT:
 Thus the program is written to read the csv file.
